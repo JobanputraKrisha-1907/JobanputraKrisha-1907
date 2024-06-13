@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/JobanputraKrisha-1907/JobanputraKrisha-1907/assets/138883209/ac57122a-b3f4-4e85-9ac8-fcd318d00f02)
+
 
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
