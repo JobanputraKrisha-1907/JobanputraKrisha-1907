@@ -1,3 +1,6 @@
+![Untitled design](https://github.com/JobanputraKrisha-1907/JobanputraKrisha-1907/assets/138883209/ac57122a-b3f4-4e85-9ac8-fcd318d00f02)
+
+
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 
 </h2>
@@ -21,7 +24,7 @@
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/57cd976e-c49d-49b6-8dcc-038f23f1963e" alt="BOOTSTRAP" height="50" title="BOOTSTRAP">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/9e6de8bd-99ad-4e43-a3c1-9f74b9f138ad" alt="Javascript" height="50" title="JS">
 <img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design%20(1).png" alt="JQ" height="50" title="JQ" style="border-radius:50px">
-<img src="https://github.com/JobanputraKrisha-1907/JobanputraKrisha-1907/blob/main/Untitled%20design%20.png" alt="REACT" height="50" title="REACT"><br>
+<img src="https://github.com/JobanputraKrisha-1907/JobanputraKrisha-1907/assets/138883209/ac57122a-b3f4-4e85-9ac8-fcd318d00f02" alt="REACT" height="50" title="REACT"><br>
 <img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design%20(4).png" alt="ac" height="50" title="ac" style="border-radius:50px">
   <img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design%20(3).png" alt="ac" height="50" title="ac" style="border-radius:50px">
   <img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design%20(8).png" alt="ac" height="50" title="ac" style="border-radius:50px">
